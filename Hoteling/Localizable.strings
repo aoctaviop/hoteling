@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  Hoteling
+
+  Created by Andres Padilla on 3/27/18.
+  Copyright © 2018 Growth Acceleration Partners. All rights reserved.
+*/
+
+"My Reservations" = "My Reservations";
+"Reserve a Desk" = "Reserve a Desk";
+"Settings" = "Settings";
+"Logout" = "Logout";
+"Cancel" = "Cancel";
+"No" = "No";
+"Yes" = "Yes";
+"OK" = "OK";
+"Cancel reservation" = "Cancel reservation";
+"Do you want to cancel the reservation for " = "Do you want to cancel the reservation for ";
+", located at room " = ", located at room ";
+" in " = " in ";
+"Confirm reservation" = "Confirm reservation";
+"Do you want to book the desk " = "Do you want to book the desk ";
+", located at room " = ", located at room ";
+"Would you like to repeat the reservation of this desk (same day: " = "Would you like to repeat the reservation of this desk (same day: ";
+"), besides the already selected date?" = "), besides the already selected date?";
+"Free" = "Free";
+"Booked" = "Booked";
+"Desk number" = "Desk number";
+"Sort by:" = "Sort by:";
+"You already reached the max number of reservations" = "You already reached the max number of reservations";
+"Network connection failed. Please try again." = "Network connection failed. Please try again.";
+"No internet connection." = "No internet connection.";
+"The reservation couldn't be done because the desk was already reserved." = "The reservation couldn't be done because the desk was already reserved.";
+"You already have another reservation for the same day." = "You already have another reservation for the same day.";
+"You already have another reservation for the same day of the next week." = "You already have another reservation for the same day of the next week.";
+"Manage" = "Manage";
+"Do you want to delete %@?" = "Do you want to delete %@?";
+"Report" = "Report";
+"Cancell selected reservations" = "Cancell selected reservations";
+"Select reservations to cancel" = "Select reservations to cancel";
+"Do you want to delete all selected reservations?" = "Do you want to delete all selected reservations?";
+"Save" = "Save";
+"Type is required." = "Type is required.";

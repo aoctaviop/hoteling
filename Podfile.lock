@@ -1,0 +1,74 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - BadgeSwift (5.0.1)
+  - Crashlytics (3.10.1):
+    - Fabric (~> 1.7.5)
+  - Fabric (1.7.6)
+  - FZAccordionTableView (0.2.3)
+  - JBDatePicker (1.2.5)
+  - MarqueeLabel/Swift (3.1.4)
+  - NotificationBannerSwift (1.6.3):
+    - MarqueeLabel/Swift
+    - SnapKit (~> 4.0)
+  - PKHUD (5.0.0)
+  - ReachabilitySwift (4.1.0)
+  - SnapKit (4.0.0)
+  - SwiftDate (4.5.1)
+  - "UIAlertController+Blocks (0.9.2)"
+  - ZoomImageView (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - BadgeSwift
+  - Crashlytics
+  - Fabric
+  - FZAccordionTableView
+  - JBDatePicker
+  - NotificationBannerSwift
+  - PKHUD
+  - ReachabilitySwift
+  - SwiftDate
+  - "UIAlertController+Blocks"
+  - ZoomImageView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - BadgeSwift
+    - Crashlytics
+    - Fabric
+    - FZAccordionTableView
+    - JBDatePicker
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - PKHUD
+    - ReachabilitySwift
+    - SnapKit
+    - SwiftDate
+    - "UIAlertController+Blocks"
+    - ZoomImageView
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  BadgeSwift: 3defa56f504bfb46f2300122c4a565ec9e405c1e
+  Crashlytics: aee1a064cbbf99b32efa3f056a5f458d846bc8ff
+  Fabric: f8d42c893bb187326a7968b62abe55c36a987a46
+  FZAccordionTableView: e64f49c71c32d750feda14025b088bcd25d1a71f
+  JBDatePicker: 0e791c8a79c49b0d37decea28ba147515bf5cfca
+  MarqueeLabel: bf768455fe88d427f71476ebb23f9092b660f40b
+  NotificationBannerSwift: b231e4c3244848ef300e1c53ce027b9756b9b06f
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftDate: 7b56d42a221f582047287deb256b23fc5ed49a60
+  "UIAlertController+Blocks": 80e28b92523fb58aba4d1bccec013d5a0b0bddb2
+  ZoomImageView: 25559e92b53db499681706b61024bd4906e57abe
+
+PODFILE CHECKSUM: c98738bb53f50c0995a50757ea379b5cfdf9d603
+
+COCOAPODS: 1.8.4
